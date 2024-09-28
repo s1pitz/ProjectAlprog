@@ -1,0 +1,23 @@
+FOOD BY BIRA CAFE 
+----------------------------------------------------------------------
+1. Bira Platter                                  73000
+2. Bira Crispy Wing                              37000
+3. Spicy BeefSalad                               78000
+4. Italian Sandwich                              63000
+5. Chicken Katsu Teriyaki                        38000             
+
+BAVERAGE BY BIRA CAFE
+----------------------------------------------------------------------
+6. Matcha Latte                                  39000
+7. Chocolate                                     35000
+8. Caramel Macchiato                             39000
+9. Americano                                     35000
+10. Cappucino                                    31000
+ 
+PACKAGE BY BIRA CAFE
+----------------------------------------------------------------------
+11. Chicken Katsu Teriyaki + Americano           70000
+12. Bira Crispy Wing       + Matcha Latte        75000
+13. Italian Sandwich       + Cappucino           90000
+14. Spicy BeefSalad        + Caramel Macchiato   110000
+15. Bira Platter           + Chocolate           105000
